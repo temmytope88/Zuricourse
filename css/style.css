@@ -1,0 +1,16 @@
+.header{
+  margin-top:10px;
+  margin-bottom: 10px;
+
+}
+
+
+.wrapper{
+  display: grid;
+  -ms-grid-column-align: center;
+}
+
+.index{
+  background-image: url(images/main.jpg);
+  background-size: 100% 90%;
+}
